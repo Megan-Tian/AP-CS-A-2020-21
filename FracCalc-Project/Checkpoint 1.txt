@@ -1,0 +1,9 @@
+Checkpoint 1: Parsing one line of input 
+• Your main() method creates a Scanner, reads one line of input, and passes that input to produceAnswer. 
+• produceAnswer breaks up that line of input into three Strings: 
+  - the first operand (fraction), 
+  - the operator (+ - * /), 
+  - and the second operand (fraction).  
+  Each of these Strings should be stored in variables inside produceAnswer.    
+• produceAnswer returns the second operand.  For example, produceAnswer(“1_2/3 + 4_5/6”) returns “4_5/6”.  
+• main() prints the result returned by produceAnswer 
