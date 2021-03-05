@@ -1,3 +1,0 @@
-Final Project: All requirements complete 
-• All answers must be reduced 
-• All tests pass
