@@ -1,5 +1,5 @@
 # AP CS A 2020-2021
-AP Computer Science A 2020-2021 programs and projects. My class used Microsoft's TEALS program modelled after the University of Washington's introductory programming class.
+AP Computer Science A 2020-2021 programs and projects. 
 
 ## FracCalc
 
