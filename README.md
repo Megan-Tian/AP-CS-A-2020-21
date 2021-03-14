@@ -8,8 +8,8 @@ TEALS project.
 
 Run the code here: https://repl.it/@MeganTian/FracCalc-Project-Final-Checkpt
 
-## TextExcel (will be uploaded when complete)
+## TextExcel 
 
 Simple console-based spreadsheet that can assign text, double, and percent values to a cell. 
-Only completes part A, so it can't handle formulas. 
+Class only covered Part A. 
 TEALS project.
