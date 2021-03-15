@@ -1,0 +1,14 @@
+A1,TextCell,"hi"
+B1,ValueCell,1
+C1,PercentCell,0.011000000000000001
+A2,TextCell,"hello"
+B2,ValueCell,0
+C2,PercentCell,0.19
+A3,TextCell,"hiiiiiiiiiiiiiiiiya93urp0923yh;g ;0923ihj   ;092"
+B3,ValueCell,1.0E-7
+C3,PercentCell,0.18
+C4,PercentCell,-0.002
+B5,ValueCell,2
+C5,PercentCell,0.002
+B6,ValueCell,3.95
+B7,ValueCell,0.001418

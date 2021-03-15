@@ -1,0 +1,240 @@
+A1,ValueCell,0.1
+B1,ValueCell,18.1
+C1,ValueCell,36.1
+D1,ValueCell,54.1
+E1,ValueCell,72.1
+F1,ValueCell,90.1
+G1,ValueCell,108.1
+H1,ValueCell,126.1
+I1,ValueCell,144.1
+J1,ValueCell,162.1
+K1,ValueCell,180.1
+L1,ValueCell,198.1
+A2,ValueCell,1.1
+B2,ValueCell,19.1
+C2,ValueCell,37.1
+D2,ValueCell,55.1
+E2,ValueCell,73.1
+F2,ValueCell,91.1
+G2,ValueCell,109.1
+H2,ValueCell,127.1
+I2,ValueCell,145.1
+J2,ValueCell,163.1
+K2,ValueCell,181.1
+L2,ValueCell,199.1
+A3,ValueCell,2.1
+B3,ValueCell,20.1
+C3,ValueCell,38.1
+D3,ValueCell,56.1
+E3,ValueCell,74.1
+F3,ValueCell,92.1
+G3,ValueCell,110.1
+H3,ValueCell,128.1
+I3,ValueCell,146.1
+J3,ValueCell,164.1
+K3,ValueCell,182.1
+L3,ValueCell,200.1
+A4,ValueCell,3.1
+B4,ValueCell,21.1
+C4,ValueCell,39.1
+D4,ValueCell,57.1
+E4,ValueCell,75.1
+F4,ValueCell,93.1
+G4,ValueCell,111.1
+H4,ValueCell,129.1
+I4,ValueCell,147.1
+J4,ValueCell,165.1
+K4,ValueCell,183.1
+L4,ValueCell,201.1
+A5,ValueCell,4.1
+B5,ValueCell,22.1
+C5,ValueCell,40.1
+D5,ValueCell,58.1
+E5,ValueCell,76.1
+F5,ValueCell,94.1
+G5,ValueCell,112.1
+H5,ValueCell,130.1
+I5,ValueCell,148.1
+J5,ValueCell,166.1
+K5,ValueCell,184.1
+L5,ValueCell,202.1
+A6,ValueCell,5.1
+B6,ValueCell,23.1
+C6,ValueCell,41.1
+D6,ValueCell,59.1
+E6,ValueCell,77.1
+F6,ValueCell,95.1
+G6,ValueCell,113.1
+H6,ValueCell,131.1
+I6,ValueCell,149.1
+J6,ValueCell,167.1
+K6,ValueCell,185.1
+L6,ValueCell,203.1
+A7,ValueCell,6.1
+B7,ValueCell,24.1
+C7,ValueCell,42.1
+D7,ValueCell,60.1
+E7,ValueCell,78.1
+F7,ValueCell,96.1
+G7,ValueCell,114.1
+H7,ValueCell,132.1
+I7,ValueCell,150.1
+J7,ValueCell,168.1
+K7,ValueCell,186.1
+L7,ValueCell,204.1
+A8,ValueCell,7.1
+B8,ValueCell,25.1
+C8,ValueCell,43.1
+D8,ValueCell,61.1
+E8,ValueCell,79.1
+F8,ValueCell,97.1
+G8,ValueCell,115.1
+H8,ValueCell,133.1
+I8,ValueCell,151.1
+J8,ValueCell,169.1
+K8,ValueCell,187.1
+L8,ValueCell,205.1
+A9,ValueCell,8.1
+B9,ValueCell,26.1
+C9,ValueCell,44.1
+D9,ValueCell,62.1
+E9,ValueCell,80.1
+F9,ValueCell,98.1
+G9,ValueCell,116.1
+H9,ValueCell,134.1
+I9,ValueCell,152.1
+J9,ValueCell,170.1
+K9,ValueCell,188.1
+L9,ValueCell,206.1
+A10,ValueCell,9.1
+B10,ValueCell,27.1
+C10,ValueCell,45.1
+D10,ValueCell,63.1
+E10,ValueCell,81.1
+F10,ValueCell,99.1
+G10,ValueCell,117.1
+H10,ValueCell,135.1
+I10,ValueCell,153.1
+J10,ValueCell,171.1
+K10,ValueCell,189.1
+L10,ValueCell,207.1
+A11,ValueCell,10.1
+B11,ValueCell,28.1
+C11,ValueCell,46.1
+D11,ValueCell,64.1
+E11,ValueCell,82.1
+F11,ValueCell,100.1
+G11,ValueCell,118.1
+H11,ValueCell,136.1
+I11,ValueCell,154.1
+J11,ValueCell,172.1
+K11,ValueCell,190.1
+L11,ValueCell,208.1
+A12,ValueCell,11.1
+B12,ValueCell,29.1
+C12,ValueCell,47.1
+D12,ValueCell,65.1
+E12,ValueCell,83.1
+F12,ValueCell,101.1
+G12,ValueCell,119.1
+H12,ValueCell,137.1
+I12,ValueCell,155.1
+J12,ValueCell,173.1
+K12,ValueCell,191.1
+L12,ValueCell,209.1
+A13,ValueCell,12.1
+B13,ValueCell,30.1
+C13,ValueCell,48.1
+D13,ValueCell,66.1
+E13,ValueCell,84.1
+F13,ValueCell,102.1
+G13,ValueCell,120.1
+H13,ValueCell,138.1
+I13,ValueCell,156.1
+J13,ValueCell,174.1
+K13,ValueCell,192.1
+L13,ValueCell,210.1
+A14,ValueCell,13.1
+B14,ValueCell,31.1
+C14,ValueCell,49.1
+D14,ValueCell,67.1
+E14,ValueCell,85.1
+F14,ValueCell,103.1
+G14,ValueCell,121.1
+H14,ValueCell,139.1
+I14,ValueCell,157.1
+J14,ValueCell,175.1
+K14,ValueCell,193.1
+L14,ValueCell,211.1
+A15,ValueCell,14.1
+B15,ValueCell,32.1
+C15,ValueCell,50.1
+D15,ValueCell,68.1
+E15,ValueCell,86.1
+F15,ValueCell,104.1
+G15,ValueCell,122.1
+H15,ValueCell,140.1
+I15,ValueCell,158.1
+J15,ValueCell,176.1
+K15,ValueCell,194.1
+L15,ValueCell,212.1
+A16,ValueCell,15.1
+B16,ValueCell,33.1
+C16,ValueCell,51.1
+D16,ValueCell,69.1
+E16,ValueCell,87.1
+F16,ValueCell,105.1
+G16,ValueCell,123.1
+H16,ValueCell,141.1
+I16,ValueCell,159.1
+J16,ValueCell,177.1
+K16,ValueCell,195.1
+L16,ValueCell,213.1
+A17,ValueCell,16.1
+B17,ValueCell,34.1
+C17,ValueCell,52.1
+D17,ValueCell,70.1
+E17,ValueCell,88.1
+F17,ValueCell,106.1
+G17,ValueCell,124.1
+H17,ValueCell,142.1
+I17,ValueCell,160.1
+J17,ValueCell,178.1
+K17,ValueCell,196.1
+L17,ValueCell,214.1
+A18,ValueCell,17.1
+B18,ValueCell,35.1
+C18,ValueCell,53.1
+D18,ValueCell,71.1
+E18,ValueCell,89.1
+F18,ValueCell,107.1
+G18,ValueCell,125.1
+H18,ValueCell,143.1
+I18,ValueCell,161.1
+J18,ValueCell,179.1
+K18,ValueCell,197.1
+L18,ValueCell,215.1
+A19,FormulaCell,( 0.2 + 01 - 02 * 03 / 04 + 05 - 06 * 07 / 08 + 09 - 010 * 011 / 012 + 013 - 014 * 015 / 016 + 017 - 018 )
+B19,FormulaCell,( 0.2 + 11 - 12 * 13 / 14 + 15 - 16 * 17 / 18 + 19 - 110 * 111 / 112 + 113 - 114 * 115 / 116 + 117 - 118 )
+C19,FormulaCell,( 0.2 + 21 - 22 * 23 / 24 + 25 - 26 * 27 / 28 + 29 - 210 * 211 / 212 + 213 - 214 * 215 / 216 + 217 - 218 )
+D19,FormulaCell,( 0.2 + 31 - 32 * 33 / 34 + 35 - 36 * 37 / 38 + 39 - 310 * 311 / 312 + 313 - 314 * 315 / 316 + 317 - 318 )
+E19,FormulaCell,( 0.2 + 41 - 42 * 43 / 44 + 45 - 46 * 47 / 48 + 49 - 410 * 411 / 412 + 413 - 414 * 415 / 416 + 417 - 418 )
+F19,FormulaCell,( 0.2 + 51 - 52 * 53 / 54 + 55 - 56 * 57 / 58 + 59 - 510 * 511 / 512 + 513 - 514 * 515 / 516 + 517 - 518 )
+G19,FormulaCell,( 0.2 + 61 - 62 * 63 / 64 + 65 - 66 * 67 / 68 + 69 - 610 * 611 / 612 + 613 - 614 * 615 / 616 + 617 - 618 )
+H19,FormulaCell,( 0.2 + 71 - 72 * 73 / 74 + 75 - 76 * 77 / 78 + 79 - 710 * 711 / 712 + 713 - 714 * 715 / 716 + 717 - 718 )
+I19,FormulaCell,( 0.2 + 81 - 82 * 83 / 84 + 85 - 86 * 87 / 88 + 89 - 810 * 811 / 812 + 813 - 814 * 815 / 816 + 817 - 818 )
+J19,FormulaCell,( 0.2 + 91 - 92 * 93 / 94 + 95 - 96 * 97 / 98 + 99 - 910 * 911 / 912 + 913 - 914 * 915 / 916 + 917 - 918 )
+K19,FormulaCell,( 0.2 + 101 - 102 * 103 / 104 + 105 - 106 * 107 / 108 + 109 - 1010 * 1011 / 1012 + 1013 - 1014 * 1015 / 1016 + 1017 - 1018 )
+L19,FormulaCell,( 0.2 + 111 - 112 * 113 / 114 + 115 - 116 * 117 / 118 + 119 - 1110 * 1111 / 1112 + 1113 - 1114 * 1115 / 1116 + 1117 - 1118 )
+A20,TextCell,"B4 = ( avg A2-A3 )"
+B20,TextCell,"( 1 * 2 / 1 + 3 - 5 )"
+C20,TextCell,"B4 = ( avg A2-A3 )"
+D20,TextCell,"( 1 * 2 / 1 + 3 - 5 )"
+E20,TextCell,"B4 = ( avg A2-A3 )"
+F20,TextCell,"( 1 * 2 / 1 + 3 - 5 )"
+G20,TextCell,"B4 = ( avg A2-A3 )"
+H20,TextCell,"( 1 * 2 / 1 + 3 - 5 )"
+I20,TextCell,"B4 = ( avg A2-A3 )"
+J20,TextCell,"( 1 * 2 / 1 + 3 - 5 )"
+K20,TextCell,"B4 = ( avg A2-A3 )"
+L20,TextCell,"( 1 * 2 / 1 + 3 - 5 )"
