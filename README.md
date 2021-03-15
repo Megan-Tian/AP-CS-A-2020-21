@@ -10,6 +10,6 @@ Run the code here: https://repl.it/@MeganTian/FracCalc-Project-Final-Checkpt
 
 ## TextExcel 
 
-Simple console-based spreadsheet that can assign text, double, and percent values to a cell. 
+Simple console-based spreadsheet that can assign text, double, and percent values to a cell. Can read and write .csv files. 
 Class only covered Part A. 
 TEALS project.
